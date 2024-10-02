@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\MyProject.Api.csproj": {}
+    "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\MyProject.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\MyProject.Api.csproj": {
+    "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\MyProject.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\MyProject.Api.csproj",
+        "projectUniqueName": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\MyProject.Api.csproj",
         "projectName": "MyProject.Api",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\MyProject.Api.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\obj\\",
+        "projectPath": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\MyProject.Api.csproj",
+        "packagesPath": "C:\\Users\\Phat Huy\\.nuget\\packages\\",
+        "outputPath": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Phat Huy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj"
+              "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj": {
+                "projectPath": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj"
               },
-              "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\MyProject.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\MyProject.Infrastructure.csproj"
+              "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\MyProject.Infrastructure.csproj": {
+                "projectPath": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\MyProject.Infrastructure.csproj"
               }
             }
           }
@@ -46,6 +46,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -92,24 +97,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj": {
+    "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj",
+        "projectUniqueName": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj",
         "projectName": "MyProject.Domain",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\obj\\",
+        "projectPath": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj",
+        "packagesPath": "C:\\Users\\Phat Huy\\.nuget\\packages\\",
+        "outputPath": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Phat Huy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -131,6 +136,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -158,24 +168,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\MyProject.Infrastructure.csproj": {
+    "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\MyProject.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\MyProject.Infrastructure.csproj",
+        "projectUniqueName": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\MyProject.Infrastructure.csproj",
         "projectName": "MyProject.Infrastructure",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\MyProject.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\obj\\",
+        "projectPath": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\MyProject.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Phat Huy\\.nuget\\packages\\",
+        "outputPath": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Phat Huy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -191,8 +201,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj"
+              "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj": {
+                "projectPath": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj"
               }
             }
           }
@@ -201,6 +211,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -232,7 +247,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -113,23 +113,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\Phat Huy\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj",
+      "projectUniqueName": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj",
       "projectName": "MyProject.Domain",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\obj\\",
+      "projectPath": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj",
+      "packagesPath": "C:\\Users\\Phat Huy\\.nuget\\packages\\",
+      "outputPath": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Phat Huy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -151,6 +151,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -178,7 +183,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

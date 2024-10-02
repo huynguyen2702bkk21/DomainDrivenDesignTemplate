@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LS9mSTDHQZ4FtD/oYteWyP2Jmf5LB22ScYqA2bIo+ocjsG2Kn7B1kQWrm6XyFNrCg31NGwoG+NOFgJF17Nq90A==",
+  "dgSpecHash": "NDsoIjnAMio=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj",
+  "projectFilePath": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\Phat Huy\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Phat Huy\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Phat Huy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

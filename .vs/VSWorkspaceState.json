@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DomainDrivenDesignMicroserviceTemplate"
+    "\\DomainDrivenDesignMicroserviceTemplate",
+    "\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain",
+    "\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels",
+    "\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\GoodsReceiptAggregate"
   ],
+  "SelectedNode": "\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\GoodsReceiptAggregate\\GoodsReceiptEntry.cs",
   "PreviewInSolutionExplorer": false
 }
