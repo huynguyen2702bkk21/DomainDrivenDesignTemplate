@@ -3,6 +3,78 @@
   "WorkspaceRootPath": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.domain\\aggregatemodels\\itemaggregate\\eitemsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\aggregatemodels\\itemaggregate\\eitemsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FE2133-F3B9-4E58-A9FD-2B26A47DA6A2}|MyProject.Api\\MyProject.Api.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.api\\application\\mapping\\modeltoviewmodelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FE2133-F3B9-4E58-A9FD-2B26A47DA6A2}|MyProject.Api\\MyProject.Api.csproj|solutionrelative:myproject.api\\application\\mapping\\modeltoviewmodelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FE2133-F3B9-4E58-A9FD-2B26A47DA6A2}|MyProject.Api\\MyProject.Api.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FE2133-F3B9-4E58-A9FD-2B26A47DA6A2}|MyProject.Api\\MyProject.Api.csproj|solutionrelative:myproject.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.domain\\seedwork\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\seedwork\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.domain\\seedwork\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\seedwork\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.domain\\seedwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\seedwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C7F118-0278-499B-A002-59955C22791E}|MyProject.Infrastructure\\MyProject.Infrastructure.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C7F118-0278-499B-A002-59955C22791E}|MyProject.Infrastructure\\MyProject.Infrastructure.csproj|solutionrelative:myproject.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C7F118-0278-499B-A002-59955C22791E}|MyProject.Infrastructure\\MyProject.Infrastructure.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.infrastructure\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C7F118-0278-499B-A002-59955C22791E}|MyProject.Infrastructure\\MyProject.Infrastructure.csproj|solutionrelative:myproject.infrastructure\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C7F118-0278-499B-A002-59955C22791E}|MyProject.Infrastructure\\MyProject.Infrastructure.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.infrastructure\\mediatorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C7F118-0278-499B-A002-59955C22791E}|MyProject.Infrastructure\\MyProject.Infrastructure.csproj|solutionrelative:myproject.infrastructure\\mediatorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FE2133-F3B9-4E58-A9FD-2B26A47DA6A2}|MyProject.Api\\MyProject.Api.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55FE2133-F3B9-4E58-A9FD-2B26A47DA6A2}|MyProject.Api\\MyProject.Api.csproj|solutionrelative:myproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.domain\\seedwork\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\seedwork\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.domain\\seedwork\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\seedwork\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.domain\\aggregatemodels\\itemaggregate\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\aggregatemodels\\itemaggregate\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.domain\\aggregatemodels\\itemaggregate\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\aggregatemodels\\itemaggregate\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.domain\\aggregatemodels\\itemaggregate\\eunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\aggregatemodels\\itemaggregate\\eunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.domain\\aggregatemodels\\containeraggregate\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\aggregatemodels\\containeraggregate\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FE2133-F3B9-4E58-A9FD-2B26A47DA6A2}|MyProject.Api\\MyProject.Api.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FE2133-F3B9-4E58-A9FD-2B26A47DA6A2}|MyProject.Api\\MyProject.Api.csproj|solutionrelative:myproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55FE2133-F3B9-4E58-A9FD-2B26A47DA6A2}|MyProject.Api\\MyProject.Api.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.api\\myproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{55FE2133-F3B9-4E58-A9FD-2B26A47DA6A2}|MyProject.Api\\MyProject.Api.csproj|solutionrelative:myproject.api\\myproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -55,24 +127,8 @@
       "RelativeMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\aggregatemodels\\goodsissueaggregate\\goodsissue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.domain\\aggregatemodels\\containeraggregate\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\aggregatemodels\\containeraggregate\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.domain\\aggregatemodels\\itemaggregate\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\aggregatemodels\\itemaggregate\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.domain\\aggregatemodels\\containertypeaggregate\\containertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:myproject.domain\\aggregatemodels\\containertypeaggregate\\containertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4C7F118-0278-499B-A002-59955C22791E}|MyProject.Infrastructure\\MyProject.Infrastructure.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C7F118-0278-499B-A002-59955C22791E}|MyProject.Infrastructure\\MyProject.Infrastructure.csproj|solutionrelative:myproject.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55FE2133-F3B9-4E58-A9FD-2B26A47DA6A2}|MyProject.Api\\MyProject.Api.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55FE2133-F3B9-4E58-A9FD-2B26A47DA6A2}|MyProject.Api\\MyProject.Api.csproj|solutionrelative:myproject.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FE13F50-BF04-4A1B-A180-8F11B5C8A44D}|MyProject.Domain\\MyProject.Domain.csproj|d:\\code\\visualstudio\\c#\\training\\week10\\domaindrivendesigntemplate\\domaindrivendesignmicroservicetemplate\\myproject.domain\\aggregatemodels\\containeraggregate\\icontainerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -109,47 +165,219 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MyProject.Api\\appsettings.json",
+              "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\appsettings.json",
+              "RelativeToolTip": "MyProject.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T05:47:34.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\ItemAggregate\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\AggregateModels\\ItemAggregate\\IItemRepository.cs",
+              "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\ItemAggregate\\IItemRepository.cs",
+              "RelativeToolTip": "MyProject.Domain\\AggregateModels\\ItemAggregate\\IItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:45:23.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EUnit.cs",
+              "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\ItemAggregate\\EUnit.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\AggregateModels\\ItemAggregate\\EUnit.cs",
+              "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\ItemAggregate\\EUnit.cs",
+              "RelativeToolTip": "MyProject.Domain\\AggregateModels\\ItemAggregate\\EUnit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:45:22.471Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyProject.Api",
+              "Title": "EItemSource.cs",
+              "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\ItemAggregate\\EItemSource.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\AggregateModels\\ItemAggregate\\EItemSource.cs",
+              "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\ItemAggregate\\EItemSource.cs",
+              "RelativeToolTip": "MyProject.Domain\\AggregateModels\\ItemAggregate\\EItemSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:45:21.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\SeedWork\\ValueObject.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\SeedWork\\ValueObject.cs",
+              "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\SeedWork\\ValueObject.cs",
+              "RelativeToolTip": "MyProject.Domain\\SeedWork\\ValueObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:44:58.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\SeedWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\SeedWork\\IUnitOfWork.cs",
+              "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\SeedWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "MyProject.Domain\\SeedWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:44:57.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\SeedWork\\IRepository.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\SeedWork\\IRepository.cs",
+              "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\SeedWork\\IRepository.cs",
+              "RelativeToolTip": "MyProject.Domain\\SeedWork\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:44:55.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\SeedWork\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\SeedWork\\IAggregateRoot.cs",
+              "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\SeedWork\\IAggregateRoot.cs",
+              "RelativeToolTip": "MyProject.Domain\\SeedWork\\IAggregateRoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:44:53.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\SeedWork\\Entity.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\SeedWork\\Entity.cs",
+              "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\SeedWork\\Entity.cs",
+              "RelativeToolTip": "MyProject.Domain\\SeedWork\\Entity.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:44:51.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "MyProject.Domain\\GlobalUsing.cs",
+              "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\GlobalUsing.cs",
+              "RelativeToolTip": "MyProject.Domain\\GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:44:34.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "MyProject.Infrastructure\\GlobalUsing.cs",
+              "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\GlobalUsing.cs",
+              "RelativeToolTip": "MyProject.Infrastructure\\GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:44:27.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MediatorExtension.cs",
+              "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\MediatorExtension.cs",
+              "RelativeDocumentMoniker": "MyProject.Infrastructure\\MediatorExtension.cs",
+              "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\MediatorExtension.cs",
+              "RelativeToolTip": "MyProject.Infrastructure\\MediatorExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:44:26.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModelToViewModelProfile.cs",
+              "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\Application\\Mapping\\ModelToViewModelProfile.cs",
+              "RelativeDocumentMoniker": "MyProject.Api\\Application\\Mapping\\ModelToViewModelProfile.cs",
+              "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\Application\\Mapping\\ModelToViewModelProfile.cs",
+              "RelativeToolTip": "MyProject.Api\\Application\\Mapping\\ModelToViewModelProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:44:14.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MyProject.Api\\Program.cs",
+              "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\Program.cs",
+              "RelativeToolTip": "MyProject.Api\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:44:07.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyProject.Api.csproj",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\MyProject.Api.csproj",
               "RelativeDocumentMoniker": "MyProject.Api\\MyProject.Api.csproj",
               "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\MyProject.Api.csproj",
               "RelativeToolTip": "MyProject.Api\\MyProject.Api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-02T05:15:20.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T05:15:20.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyProject.Domain",
+              "DocumentIndex": 19,
+              "Title": "MyProject.Domain.csproj",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj",
               "RelativeDocumentMoniker": "MyProject.Domain\\MyProject.Domain.csproj",
               "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\MyProject.Domain.csproj",
               "RelativeToolTip": "MyProject.Domain\\MyProject.Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-02T05:15:19.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T05:15:19.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MyProject.Infrastructure",
+              "DocumentIndex": 20,
+              "Title": "MyProject.Infrastructure.csproj",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\MyProject.Infrastructure.csproj",
               "RelativeDocumentMoniker": "MyProject.Infrastructure\\MyProject.Infrastructure.csproj",
               "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\MyProject.Infrastructure.csproj",
               "RelativeToolTip": "MyProject.Infrastructure\\MyProject.Infrastructure.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-02T05:15:17.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T05:15:17.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 22,
               "Title": "GoodsReceipt.cs",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\GoodsReceiptAggregate\\GoodsReceipt.cs",
               "RelativeDocumentMoniker": "MyProject.Domain\\AggregateModels\\GoodsReceiptAggregate\\GoodsReceipt.cs",
@@ -161,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 23,
               "Title": "GoodsIssueEntry.cs",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\GoodsIssueAggregate\\GoodsIssueEntry.cs",
               "RelativeDocumentMoniker": "MyProject.Domain\\AggregateModels\\GoodsIssueAggregate\\GoodsIssueEntry.cs",
@@ -173,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 24,
               "Title": "Slice.cs",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\StorageAggregate\\Slice.cs",
               "RelativeDocumentMoniker": "MyProject.Domain\\AggregateModels\\StorageAggregate\\Slice.cs",
@@ -185,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 25,
               "Title": "Shelf.cs",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\StorageAggregate\\Shelf.cs",
               "RelativeDocumentMoniker": "MyProject.Domain\\AggregateModels\\StorageAggregate\\Shelf.cs",
@@ -197,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 27,
               "Title": "StockChange.cs",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\StockCardAggregate\\StockChange.cs",
               "RelativeDocumentMoniker": "MyProject.Domain\\AggregateModels\\StockCardAggregate\\StockChange.cs",
@@ -209,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 26,
               "Title": "StockCardEntry.cs",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\StockCardAggregate\\StockCardEntry.cs",
               "RelativeDocumentMoniker": "MyProject.Domain\\AggregateModels\\StockCardAggregate\\StockCardEntry.cs",
@@ -221,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 21,
               "Title": "GoodsReceiptEntry.cs",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\GoodsReceiptAggregate\\GoodsReceiptEntry.cs",
               "RelativeDocumentMoniker": "MyProject.Domain\\AggregateModels\\GoodsReceiptAggregate\\GoodsReceiptEntry.cs",
@@ -229,12 +457,11 @@
               "RelativeToolTip": "MyProject.Domain\\AggregateModels\\GoodsReceiptAggregate\\GoodsReceiptEntry.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAAwCwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T05:14:50.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T05:14:50.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 30,
               "Title": "GoodsIssue.cs",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\GoodsIssueAggregate\\GoodsIssue.cs",
               "RelativeDocumentMoniker": "MyProject.Domain\\AggregateModels\\GoodsIssueAggregate\\GoodsIssue.cs",
@@ -246,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 29,
               "Title": "ContainerInconsistency.cs",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\ContainerInconsistencyAggregate\\ContainerInconsistency.cs",
               "RelativeDocumentMoniker": "MyProject.Domain\\AggregateModels\\ContainerInconsistencyAggregate\\ContainerInconsistency.cs",
@@ -258,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 28,
               "Title": "Slot.cs",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\StorageAggregate\\Slot.cs",
               "RelativeDocumentMoniker": "MyProject.Domain\\AggregateModels\\StorageAggregate\\Slot.cs",
@@ -270,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Item.cs",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\ItemAggregate\\Item.cs",
               "RelativeDocumentMoniker": "MyProject.Domain\\AggregateModels\\ItemAggregate\\Item.cs",
@@ -282,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 31,
               "Title": "ContainerType.cs",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\ContainerTypeAggregate\\ContainerType.cs",
               "RelativeDocumentMoniker": "MyProject.Domain\\AggregateModels\\ContainerTypeAggregate\\ContainerType.cs",
@@ -293,24 +520,20 @@
               "WhenOpened": "2024-10-02T05:14:50.8Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MyProject.Infrastructure\\ApplicationDbContext.cs",
               "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Infrastructure\\ApplicationDbContext.cs",
               "RelativeToolTip": "MyProject.Infrastructure\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBEAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T05:14:50.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 2,
               "Title": "GlobalUsing.cs",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Api\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "MyProject.Api\\GlobalUsing.cs",
@@ -318,11 +541,12 @@
               "RelativeToolTip": "MyProject.Api\\GlobalUsing.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T05:14:50.806Z"
+              "WhenOpened": "2024-10-02T05:14:50.806Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 32,
               "Title": "IContainerRepository.cs",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\ContainerAggregate\\IContainerRepository.cs",
               "RelativeDocumentMoniker": "MyProject.Domain\\AggregateModels\\ContainerAggregate\\IContainerRepository.cs",
@@ -334,13 +558,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Container.cs",
               "DocumentMoniker": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\ContainerAggregate\\Container.cs",
               "RelativeDocumentMoniker": "MyProject.Domain\\AggregateModels\\ContainerAggregate\\Container.cs",
               "ToolTip": "D:\\CODE\\VisualStudio\\C#\\TRAINING\\Week10\\DomainDrivenDesignTemplate\\DomainDrivenDesignMicroserviceTemplate\\MyProject.Domain\\AggregateModels\\ContainerAggregate\\Container.cs",
               "RelativeToolTip": "MyProject.Domain\\AggregateModels\\ContainerAggregate\\Container.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAtwAwAAAAwAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwAwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T05:14:50.811Z"
             }
